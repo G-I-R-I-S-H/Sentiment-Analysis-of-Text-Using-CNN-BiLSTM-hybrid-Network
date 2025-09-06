@@ -16,8 +16,8 @@ The system delivers **91.5% accuracy** and a **89.86% weighted F1-score**, demon
 - Integrated **CNN + Bi-LSTM** model architecture  
 - Performance assessment through **ROC-AUC, Precision-Recall, Confusion Matrix, Accuracy/Loss visualizations**  
 - Results achieved:
-  - ✅ Accuracy: **97.5%**
-  - ✅ Weighted F1-score: **97%**
+  - ✅ Accuracy: **91.5%**
+  - ✅ Weighted F1-score: **89.86%**
   - ✅ AUC ≈ **1.0** for Positive & Neutral sentiments
 
 ---
