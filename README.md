@@ -6,7 +6,7 @@ The integrated methodology utilizes:
 - **CNN** → for identifying local textual features  
 - **Bi-LSTM** → for understanding sequential relationships and semantic context  
 
-The system delivers **97.5% accuracy** and a **97% weighted F1-score**, demonstrating exceptional performance in categorizing tweets as **Positive, Neutral, or Negative**.
+The system delivers **91.5% accuracy** and a **89.86% weighted F1-score**, demonstrating exceptional performance in categorizing tweets as **Positive, Neutral, or Negative**.
 
 ---
 
