@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📌 Sentiment Analysis of Text Using CNN-BiLSTM
 
 This project presents a **combined Convolutional Neural Network (CNN) and Bidirectional Long Short-Term Memory (Bi-LSTM)** architecture designed for **sentiment classification** of text data (Twitter dataset).  
@@ -127,3 +128,6 @@ The system delivers **97.5% accuracy** and a **97% weighted F1-score**, demonstr
 
 ---
 
+=======
+# Sentiment-Analysis-of-Text-Using-CNN-BiLSTM-hybrid-Network
+>>>>>>> c4a2adfb06a27049f9883573103a7bb422ef88d9
